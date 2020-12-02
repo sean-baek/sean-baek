@@ -10,5 +10,5 @@
 
 ![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-brightgreen)
 ![issue badge](https://img.shields.io/badge/Instagram-xean__baek-brightgreen)
-![issue badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter%2Fxeanbaek)
+![issue badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter)
 ![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black)
