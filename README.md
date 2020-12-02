@@ -10,7 +10,7 @@
 
 ![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-black?logo=facebook)<!-- facebook badge -->
 ![issue badge](https://img.shields.io/badge/Instagram-xean__baek-black?logo=instagram)<!-- instagram badge -->
-![issue badge](https://img.shields.io/twitter/url?color=black&label=twitter%20%40xeanbaek&logo=twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com)<!-- twitter -->
+![issue badge](https://img.shields.io/twitter/url?color=black&label=twitter%20%40xeanbaek&logo=twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com?labelcolor=black)<!-- twitter -->
 
-![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black?labelcolor=black)<!-- github followers -->
+![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black)<!-- github followers -->
 
