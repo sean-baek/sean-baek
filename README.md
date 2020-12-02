@@ -9,12 +9,9 @@
 
 <!-- facebook badge -->
 ![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-brightgreen)
-
 <!-- instagram badge -->
 ![issue badge](https://img.shields.io/badge/Instagram-xean__baek-brightgreen)
-
 <!-- twitter -->
 ![issue badge](https://img.shields.io/twitter/url?color=black&label=twitter%20%40xeanbaek&logo=twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com)
-
 <!-- github followers -->
 ![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black)
