@@ -9,8 +9,8 @@
 
 
 <a href="https://facebook.com/xeanbaek">![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-black?logo=facebook)</a><!-- facebook badge -->
-![issue badge](https://img.shields.io/badge/Instagram-xean__baek-black?logo=instagram)<!-- instagram badge -->
-![issue badge](https://img.shields.io/twitter/url?color=black&label=twitter%20%40xeanbaek&logo=twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com?labelcolor=black)<!-- twitter -->
+<a href="https://instagram.com/xean_baek">![issue badge](https://img.shields.io/badge/Instagram-xean__baek-black?logo=instagram)</a><!-- instagram badge -->
+<a href="https://twitter.com/xeanbaek">![issue badge](https://img.shields.io/twitter/url?color=black&label=twitter%20%40xeanbaek&logo=twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com?labelcolor=black)</a><!-- twitter -->
 
 ![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black)<!-- github followers -->
 
