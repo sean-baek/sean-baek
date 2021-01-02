@@ -7,4 +7,9 @@
 
 # 2020/01/01
 - baekjoon 문제 품.
+- coding dojang 65까지 공부 완료.
+
+# 2020/01/02
+- 코딩 도장 66까지 완료.
+- c_study/function_creation/my_printf.c 작성.
 
