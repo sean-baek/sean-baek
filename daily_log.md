@@ -13,3 +13,5 @@
 - 코딩 도장 66까지 완료.
 - c_study/function_creation/my_printf.c 작성.
 
+# 2020/01/03
+- 코딩 도장 69까지 완료.
