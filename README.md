@@ -5,6 +5,17 @@
 ### Only Once You Live.
 ### You Only Live Once.
 
+---
+
+###### 보안 개발과 해킹을다 잘하고 싶은 학생입니다.
+###### 해킹으로 입문해서 웹, 리버싱, 시스템 부분에 잽만 날려봤고
+###### 재미를 찾다가 네트워크에 흥미를 가지게 됐으며
+###### 개발에 집중하다가 요즘은 deep and deep하게 들어가다보니
+###### OS를 공부하는 중입니다.
+
+---
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-baek&count_bg=%23101110&title_bg=%23555555&icon=github.svg&icon_color=%232F2A2A&title=number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
