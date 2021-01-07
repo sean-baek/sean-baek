@@ -25,3 +25,13 @@
 - 코딩 도장 71.3까지 완료.
 - meltdown과 spectre 문서 읽기 완료.
 - cpu 구조와 내부 동작 문서 읽기 완료.
+
+# 2021/01/06 (수)
+- BoB 3차 공통 수업.
+- 코딩 도장 72까지 완료.
+- c_study/bubble_sort/bubble_sort_descending.c 작성
+
+# 2021/01/07 (목)
+- BoB 강의.
+- virtual Memory 공부.
+- 코딩 도장 75까지 완료.
