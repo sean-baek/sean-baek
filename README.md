@@ -1,4 +1,4 @@
-### Hi there, I'm sean! 
+### Hi there, I'm sean!
 ### Nice to meet you.
 
 
