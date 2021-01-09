@@ -32,18 +32,15 @@
 - c_study/bubble_sort/bubble_sort_descending.c 작성
 
 # 2021/01/07 (목)
-- BoB 강의.
+- BoB 3차 공통 수업.
 - virtual Memory 공부.
 - 코딩 도장 75까지 완료.
 
 # 2021/01/08 (금)
 - BoB 과제 제출.
-- BoB 강의
+- BoB 3차 공통 수업.
 
-# 2021/01/08 (금)
-- BoB 과제 제출.
-- BoB 강의
-
-# 2021/01/08 (금)
-- BoB 과제 제출.
-- BoB 강의.
+# 2021/01/09 (토)
+- BoB 3차 공통 수업.
+- 코딩 도장 80까지 완료.
+- tistory blog 생성.
