@@ -44,3 +44,5 @@
 - BoB 3차 공통 수업.
 - 코딩 도장 80까지 완료.
 - tistory blog 생성.
+- blog 글 작성.
+- github 64bit_multicore_os repo 생성.
