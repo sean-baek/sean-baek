@@ -60,3 +60,5 @@
 - BoB 3차 공통 교육.
 - blog 64bit multicore os [0] 작성 완료.
 - binutils와 gcc 생성 완료.
+
+# 2021/01/13 (수)
