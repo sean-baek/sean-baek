@@ -62,3 +62,6 @@
 - binutils와 gcc 생성 완료.
 
 # 2021/01/13 (수)
+- blog : 64비트 멀티코어 OS[1] - 윈도우 개발 환경 구성한 후기 작성 완료.
+- BoB 3차 공통 교육.
+- windows 10 32bit binutils cygwin을 통해 받은 소스코드 빌드 실패
