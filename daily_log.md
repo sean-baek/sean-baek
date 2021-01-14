@@ -65,3 +65,9 @@
 - blog : 64비트 멀티코어 OS[1] - 윈도우 개발 환경 구성한 후기 작성 완료.
 - BoB 3차 공통 교육.
 - windows 10 32bit binutils cygwin을 통해 받은 소스코드 빌드 실패
+
+# 2021/01/04(목)
+- 64비트 멀티코어 os 윈도우 환경 windows 10 32bit 에서 환경 구축 성공.
+- BoB 3차 공통 교육.
+- 64비트 멀티코어 os github install_setup_packages_cygwin.txt 파일을 md 파일로 확장자 변경 및 일부 내용 주석 처리.
+- 64비트 멀티코어 os 윈도우 환경 구성 blog 작성 완료.
