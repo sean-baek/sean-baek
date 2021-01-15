@@ -71,3 +71,8 @@
 - BoB 3차 공통 교육.
 - 64비트 멀티코어 os github install_setup_packages_cygwin.txt 파일을 md 파일로 확장자 변경 및 일부 내용 주석 처리.
 - 64비트 멀티코어 os 윈도우 환경 구성 blog 작성 완료.
+
+# 2021/01/05(금)
+- BoB 3차 공통 교육
+- TeamH4C 웹 세미나 1회 시작
+- 64bit multicore os 3장 81페이지까지 완료.
