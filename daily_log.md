@@ -81,3 +81,4 @@
 - TeamH4C 웹 세미나 1회 새벽에 종료.
 - BoB 3차 공통 교육.
 - C++ 공부 디폴트 인수까지.
+- [https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k](https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k)를 참고하여 맥북 프로 빅서 gdb 설정 완료.
