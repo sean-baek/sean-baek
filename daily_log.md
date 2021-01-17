@@ -66,19 +66,23 @@
 - BoB 3차 공통 교육.
 - windows 10 32bit binutils cygwin을 통해 받은 소스코드 빌드 실패
 
-# 2021/01/04(목)
+# 2021/01/14 (목)
 - 64비트 멀티코어 os 윈도우 환경 windows 10 32bit 에서 환경 구축 성공.
 - BoB 3차 공통 교육.
 - 64비트 멀티코어 os github install_setup_packages_cygwin.txt 파일을 md 파일로 확장자 변경 및 일부 내용 주석 처리.
 - 64비트 멀티코어 os 윈도우 환경 구성 blog 작성 완료.
 
-# 2021/01/05(금)
+# 2021/01/15 (금)
 - BoB 3차 공통 교육
 - TeamH4C 웹 세미나 1회 시작
 - 64bit multicore os 3장 81페이지까지 완료.
 
-# 2021/01/06(토)
+# 2021/01/16 (토)
 - TeamH4C 웹 세미나 1회 새벽에 종료.
 - BoB 3차 공통 교육.
 - C++ 공부 디폴트 인수까지.
 - [https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k](https://dev.to/jasonelwood/setup-gdb-on-macos-in-2020-489k)를 참고하여 맥북 프로 빅서 gdb 설정 완료.
+
+# 2021/01/17 (일)
+- BoB 3차 공통 교육
+- C++ 네임스페이스까지 완료.
