@@ -340,3 +340,7 @@
 - 리버싱 Basic_3 완료.
 - 2021-03-27-GDB.md 작성 완료.
 - 2021-03-27-Hacking-Study-Reference-URL.md 작성 완료.
+
+# 2021/03/28 (일)
+- 리버싱 공부
+- 드림핵 Basic_4, Basic_5 clear
