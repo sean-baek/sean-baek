@@ -3,11 +3,10 @@
 <a href="https://github.com/sean-baek?tab=followers">![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black)</a>
 -->
 
-<div align="center">
+<div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-baek&count_bg=%23101110&title_bg=%23555555&icon=github.svg&icon_color=black&title=number+of+visitors&edge_flat=false"/></a></center><!--number of visitors-->
 <a href="https://github.com/sean-baek?tab=followers"><img src="https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black"/></a></center><!-- github followers -->
 </div>
-
 
 # Sean(Slay) 🇰🇷 : a student studying infosec.</center>
 <p>R&D : OS, WEB, Network, Reversing, System, Hardware</p>
@@ -16,7 +15,6 @@
 ### Only Once You Live.
 ### You Only Live Once.
 -->
-
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=black"/>
@@ -29,9 +27,9 @@
 
 ## blog
 <a href="https://sean-baek.github.io"><img src="http://img.shields.io/badge/Tech%20Blog-655ced?style=flat&logo=github&link=https://sean-baek.github.io"/></a>
+[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://github.com/MoonJuhan/tistory-readme-stats)
 
 ---
-<center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center>
