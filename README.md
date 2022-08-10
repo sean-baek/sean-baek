@@ -3,9 +3,9 @@
 <a href="https://github.com/sean-baek?tab=followers">![issue badge](https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black)</a>
 -->
 
-<div>
-<center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-baek&count_bg=%23101110&title_bg=%23555555&icon=github.svg&icon_color=black&title=number+of+visitors&edge_flat=false"/></a></center><!--number of visitors-->
-<center><a href="https://github.com/sean-baek?tab=followers"><img src="https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black"/></a></center><!-- github followers -->
+<div style:text-align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-baek&count_bg=%23101110&title_bg=%23555555&icon=github.svg&icon_color=black&title=number+of+visitors&edge_flat=false"/></a></center><!--number of visitors-->
+<a href="https://github.com/sean-baek?tab=followers"><img src="https://img.shields.io/github/followers/sean-baek?color=black&label=Github%20Followers&logo=github&logoColor=black"/></a></center><!-- github followers -->
 </div>
 
 
