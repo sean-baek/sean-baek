@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-http://img.shields.io/badge/facebook-black&logo=facebook&link=https://facebook.com/xeanbaek
+http://img.shields.io/badge/facebook-black?style=plastic&logo=facebook&link=https://facebook.com/xeanbaek//left
 
 <a href="https://facebook.com/xeanbaek">![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-black?logo=facebook)</a><!-- facebook badge -->
 <a href="https://instagram.com/xean_baek">![issue badge](https://img.shields.io/badge/Instagram-xean__baek-black?logo=instagram)</a><!-- instagram badge -->
