@@ -32,4 +32,4 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean&layout=compact)]
+[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https:sean.tistory.com)
