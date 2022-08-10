@@ -27,7 +27,7 @@
 
 ## blog
 <a href="https://sean-baek.github.io"><img src="http://img.shields.io/badge/Tech%20Blog-655ced?style=flat&logo=github&link=https://sean-baek.github.io"/></a>
-[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://github.com/MoonJuhan/tistory-readme-stats)
+<a href="https://sean.tistory.com">[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://github.com/MoonJuhan/tistory-readme-stats)</a>
 
 ---
 
