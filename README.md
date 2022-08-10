@@ -67,9 +67,9 @@
 
 [![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://sean.tistory.com)
 
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=sean&postId=289)](https://sean.tistory.com)
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=sean)](https://sean.tistory.com)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sean&postId=289&theme=vue-dark)](https://sean.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sean)](https://sean.tistory.com)
 
 
 
