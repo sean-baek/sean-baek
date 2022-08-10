@@ -31,6 +31,7 @@
 <a href="https://sean-baek.github.io"><img src="http://img.shields.io/badge/Tech%20Blog-655ced?style=flat&logo=github&link=https://sean-baek.github.io"/></a>
 
 ---
-
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</center>
