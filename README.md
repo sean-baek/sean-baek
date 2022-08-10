@@ -27,9 +27,11 @@
 
 ## blog
 <a href="https://sean-baek.github.io"><img src="http://img.shields.io/badge/Tech%20Blog-655ced?style=flat&logo=github&link=https://sean-baek.github.io"/></a>
-<a href="https://sean.tistory.com">[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://github.com/MoonJuhan/tistory-readme-stats)</a>
+[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://sean.tistory.com)
+
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=sean&color=dark)](https://github.com/MoonJuhan/tistory-readme-stats)
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
-[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://sean.tistory.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
