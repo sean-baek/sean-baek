@@ -21,7 +21,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-baek&count_bg=%23101110&title_bg=%23555555&icon=github.svg&icon_color=%232F2A2A&title=number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=appveyor&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=appveyor&logoColor=black"/>
 
 
 <a href="https://facebook.com/xeanbaek">![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-black?logo=facebook)</a><!-- facebook badge -->
