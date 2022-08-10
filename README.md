@@ -31,7 +31,7 @@
 
 [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=sean&color=vue-dark)](https://github.com/MoonJuhan/tistory-readme-stats)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=sean&postId=default&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=sean&postId=&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
