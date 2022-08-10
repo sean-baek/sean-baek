@@ -75,5 +75,5 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-baek&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
