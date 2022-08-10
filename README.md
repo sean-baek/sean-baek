@@ -23,7 +23,9 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=black"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-baek)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-baek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://facebook.com/xeanbaek">![issue badge](https://img.shields.io/badge/Facebook-xeanbaek-black?logo=facebook)</a><!-- facebook badge -->
 <a href="https://instagram.com/xean_baek">![issue badge](https://img.shields.io/badge/Instagram-xean__baek-black?logo=instagram)</a><!-- instagram badge -->
