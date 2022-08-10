@@ -29,9 +29,9 @@
 <a href="https://sean-baek.github.io"><img src="http://img.shields.io/badge/Tech%20Blog-655ced?style=flat&logo=github&link=https://sean-baek.github.io"/></a>
 [![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=sean)](https://sean.tistory.com)
 
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=sean&color=vue-dark)](https://github.com/MoonJuhan/tistory-readme-stats)
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=sean&postID=289&color=dark)](https://github.com/MoonJuhan/tistory-readme-stats)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sean&postId=&theme=vue-dark)](https://sean.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sean&postId=289&theme=vue-dark)](https://sean.tistory.com)
 
 
 ---
