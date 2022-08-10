@@ -9,7 +9,7 @@
 </div>
 
 
-# <center>Sean(Slay) 🇰🇷 : a student studying infosec.</center>
+# Sean(Slay) 🇰🇷 : a student studying infosec.</center>
 <p>R&D : OS, WEB, Network, Reversing, System, Hardware</p>
 
 <!--
